@@ -48,6 +48,7 @@ lemmaFeatures=true
 
 You can also include the ArabicStemmer into your Java project. To tokenize or stem a string use the method [Main.analyseString](https://github.com/linguatools/ArabicStemmer/blob/master/src/org/linguatools/stem/ar/Main.java).
 The package uses version 5.1.0 of Lucene.
+See [API docs](https://linguatools.github.io/ArabicStemmer/) (javadoc).
 
 ## License
 Apache License 2.0
